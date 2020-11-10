@@ -47,3 +47,6 @@ body {
   grid-row: span 2;
   height: 120px;
 }
+.calculator span.equal {
+  background: #03b1ff;
+}
